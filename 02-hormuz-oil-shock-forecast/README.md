@@ -33,11 +33,11 @@ Inflation pass-through: Every $10 rise ~ +0.3-0.5pp inflation in importers (rule
 
 ## How to Run
 pip install -r requirements.txt
+
 python src/forecast.py
+
 Open dashboard.html for result dashboard.
-## Links
-- Link 1 Repo: github.com/<your-username>/02-hormuz-oil-shock-forecast
-- Link 2 Result Dashboard: <your-dashboard-link>
+
 
 ## Tests
 python src/test_forecast.py
