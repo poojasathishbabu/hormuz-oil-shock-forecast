@@ -1,0 +1,25 @@
+{
+  "range": [
+    "2021-11-17",
+    "2026-11-17"
+  ],
+  "n": 1305,
+  "brent_last": 92.94,
+  "wti_last": 89.53,
+  "brent_mean": 85.38,
+  "brent_max": 138.21,
+  "brent_min": 59.93,
+  "annual_vol_pct": 43.5,
+  "mae_naive7": 9.67,
+  "mae_ma30": 11.87,
+  "mae_xgb": null,
+  "sarimax_weekly_forecast": 89.31,
+  "mc_90d_p5": 61.0,
+  "mc_90d_p50": 93.5,
+  "mc_90d_p95": 142.9,
+  "scenarios": {
+    "Base - Normal (No shock)": 94.8,
+    "Stress - Hormuz partial disruption (+35%)": 125.5,
+    "Shock - Hormuz closure (+50%)": 139.4
+  }
+}

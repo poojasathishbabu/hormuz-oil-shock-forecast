@@ -1,0 +1,1 @@
+FRED Brent + WTI 1,305 days. SARIMAX + Monte Carlo 10k paths. Brent $92.94, P50 $93.5, Stress $125.5, Shock $139.4. Budget on P50, plan for P95.
